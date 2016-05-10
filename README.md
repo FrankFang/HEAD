@@ -21,6 +21,8 @@ A collection of HTML head elements.
 <meta name="renderer" content="webkit">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"/> 
+ -->
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <meta name="keywords" content="your,keywords,here,comma,separated,no,spaces">
 <meta name="description" content="150 chars">
